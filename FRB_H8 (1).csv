@@ -1,0 +1,13 @@
+"Series Description","Consumer loans, large domestically chartered commercial banks, seasonally adjusted","Consumer loans, small domestically chartered commercial banks, seasonally adjusted","Real estate loans, large domestically chartered commercial banks, seasonally adjusted","Real estate loans, small domestically chartered commercial banks, seasonally adjusted"
+"Unit:","Currency","Currency","Currency","Currency"
+"Multiplier:","1000000","1000000","1000000","1000000"
+"Currency:","USD","USD","USD","USD"
+"Unique Identifier: ","H8/H8/B1029NLGA","H8/H8/B1029NSMA","H8/H8/B1026NLGA","H8/H8/B1026NSMA"
+"Time Period","B1029NLGA","B1029NSMA","B1026NLGA","B1026NSMA"
+2023-10-25,1446389.2,458410.0,2483175.0,2915827.9
+2023-11-01,1439859.0,456825.7,2481650.7,2916865.1
+2023-11-08,1441684.6,457869.2,2479614.3,2918411.1
+2023-11-15,1441361.8,457255.1,2483823.7,2923375.5
+2023-11-22,1444191.2,458117.8,2483512.1,2925975.1
+2023-11-29,1450066.5,457984.2,2482881.9,2928758.1
+2023-12-06,1445297.5,456107.6,2478738.1,2929720.9
